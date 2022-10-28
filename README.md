@@ -4,3 +4,5 @@
 ## Who am I?
 
 I'm Data Analyst - Business Intelligence Analyst, I easily interact with business and IT, make up requirements and know business models, formalize and optimize solutions, create Data-Driven analytical systems, develop ETL processes and data showcases, conduct analytical and marketing research, statistical analysis, transform data into structured and understandable visualization on dashboards, I know how to find business solutions in data.
+
+<img src="https://www.codewars.com/users/volkoff.a.g/badges/small">
